@@ -5,6 +5,23 @@ Meetings are currently held on the [matrix.org platform](https://matrix.to/#/#jq
 
 Meeting minutes can be found at [meetings.jquery.org](https://meetings.jquery.org/category/core/).
 
+## Support
+
+We will continue to release bug and security fixes for the current version (3) until version 4 is ready. The prvious versions are end of life and will not receive any security or bug fixes.
+
+Our partner, HeroDevs provides commercial security fixes for all unsupported versions https://herodevs.com/nes.
+
+Version Support
+
+ Version | Supported? |  Commercial Support
+ ------------- |---------------------|---------------------
+ 4               | YES (in beta)
+ 3               | YES | 
+ 2               | NO | [`Available Here`](https://herodevs.com/nes)
+ 1               | NO | [`Available Here`](https://herodevs.com/nes)
+ 
+
+
 Contribution Guides
 --------------------------------------
 
